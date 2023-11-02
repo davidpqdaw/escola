@@ -1,0 +1,11 @@
+<?php
+    $routes=[
+        "home",
+        "login",
+        "loginaction",
+        "register",
+        "dashboard",
+        "registeraction",
+        "dashboardaction"
+    ];
+?>
